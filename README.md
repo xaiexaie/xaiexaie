@@ -104,4 +104,8 @@ Designed as a scalable foundation for community-driven micro-support systems.
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/discord.svg" alt="Discord" width="30" height="30"/>
 </a>
 
+<a href="mailto:colaljoxavierjade@gmail.com" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" alt="Gmail" width="30" height="30"/>
+</a>
+
 </p>
