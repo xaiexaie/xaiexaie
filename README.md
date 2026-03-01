@@ -6,6 +6,24 @@
 </p>
 
 ---
+## 🌍 GMHE — Global Micro-Help
+
+> A lightweight **Progressive Web App (PWA)** prototype built for quick needs and offers —  
+> **local-first, offline-capable, and accessible.**
+
+### 💡 Concept
+
+GMHE enables:
+
+- 📢 Posting quick help requests  
+- 🤝 Offering micro-assistance or services  
+- 📍 Local-first community interaction  
+- 📶 Offline functionality using service workers  
+- ⚡ Fast and lightweight performance  
+
+Designed as a scalable foundation for community-driven micro-support systems.
+
+---
 
 ### 👨‍💻 About Me
 
