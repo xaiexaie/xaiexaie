@@ -87,7 +87,7 @@ Designed as a scalable foundation for community-driven micro-support systems.
 </a>
 
 </p>
----
+
 
 ### 🌐 Connect With Me
 
